@@ -45,7 +45,7 @@ def main():
 
     url = 'https://www.googleapis.com/youtube/v3/commentThreads'
     video_id =  'NC9RAOuSYes'
-    key_api = 'AIzaSyC6mUfTewPh2ZPZHUFWbYu45J7dSI4PKOk'
+    key_api = ''
     some_part = 'snippet'
 
     # r = requests.get(url, params={'videoId': video_id, 'key':key_api, 'part':some_part})
